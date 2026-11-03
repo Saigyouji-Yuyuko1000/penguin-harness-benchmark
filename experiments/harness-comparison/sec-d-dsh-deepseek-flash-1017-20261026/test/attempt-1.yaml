@@ -4,7 +4,7 @@
   time: "2026-10-25T17:34:43Z"
   score: 0.00
   cost: 0.06
-  duration_ms: 601798.447
+  duration_ms: 601798.45
   n_input_tokens: 4461346
   n_cache_tokens: 4381824
   n_output_tokens: 71713
@@ -14,7 +14,7 @@
   time: "2026-10-25T17:58:43Z"
   score: 0.00
   cost: 0.10
-  duration_ms: 2020905.101
+  duration_ms: 2020905.10
   n_input_tokens: 10456288
   n_cache_tokens: 10326272
   n_output_tokens: 84372
@@ -34,7 +34,7 @@
   time: "2026-10-25T17:57:37Z"
   score: 0.00
   cost: 0.13
-  duration_ms: 2400385.541
+  duration_ms: 2400385.54
   n_input_tokens: 9894377
   n_cache_tokens: 9856640
   n_output_tokens: 169088
@@ -54,7 +54,7 @@
   time: "2026-10-25T17:33:43Z"
   score: 0.00
   cost: 0.07
-  duration_ms: 961137.812
+  duration_ms: 961137.81
   n_input_tokens: 4150221
   n_cache_tokens: 4104192
   n_output_tokens: 85803
@@ -64,7 +64,7 @@
   time: "2026-10-25T17:52:15Z"
   score: 0.00
   cost: 0.06
-  duration_ms: 2075992.737
+  duration_ms: 2075992.74
   n_input_tokens: 5048736
   n_cache_tokens: 4999808
   n_output_tokens: 65838
@@ -74,7 +74,7 @@
   time: "2026-10-25T18:31:18Z"
   score: 0.00
   cost: 0.13
-  duration_ms: 2400418.896
+  duration_ms: 2400418.90
   n_input_tokens: 13485623
   n_cache_tokens: 13435264
   n_output_tokens: 155056
@@ -84,7 +84,7 @@
   time: "2026-10-25T18:24:04Z"
   score: 0.00
   cost: 0.14
-  duration_ms: 2091075.942
+  duration_ms: 2091075.94
   n_input_tokens: 13371501
   n_cache_tokens: 13315328
   n_output_tokens: 169567
